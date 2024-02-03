@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table {
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5rem;
+    height: 10em;
+}
+.link {
+    display: flex;
+    justify-content: end;
+    margin-right: 15em;
+}
